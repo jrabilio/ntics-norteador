@@ -25,7 +25,7 @@ O norteador é gerado via Claude (claude.ai) com uma skill personalizada (`norte
 
 ```
 /
-├── index.html          ← Norteador da semana atual (atualizado toda semana)
+├── index.html          ← Norteador da semana atual (atualizado toda semana) 
 ├── historico/          ← Norteadores anteriores
 │   └── norteador-25-29-maio-2026.html
 └── README.md
